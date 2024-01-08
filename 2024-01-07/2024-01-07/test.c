@@ -221,7 +221,11 @@ int main()
 {
 	int arr1[] = { 1,2,3,4,5,6,7,8 };
 	int arr2[40] = { 0 };
-	my_memcpy(arr2, arr1, 16);
-	//printf("%d\n", arr1);// err
+	my_memcpy(arr2, arr1, 32);
+	int i = 0;
+	for (i =0;i<8;i++)
+		{
+			printf("%d ",arr2[i]);
+		}
 	return 0;
 }
