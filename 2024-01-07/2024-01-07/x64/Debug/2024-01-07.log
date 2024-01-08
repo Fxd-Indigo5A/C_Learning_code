@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-07\2024-01-07\test.c(225,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-07\2024-01-07\test.c(225,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  2024-01-07.vcxproj -> C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-07\x64\Debug\2024-01-07.exe
