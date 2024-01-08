@@ -203,7 +203,7 @@
 //}
   //5. simulating memcpy
 
-void* my_memcpy(void* dest, const void* src, int num)
+void* my_memcpy(void* dest, const void* src, size_t num)
 {
 	assert(dest && src);
 	void* ret = dest;
