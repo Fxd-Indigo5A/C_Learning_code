@@ -6,8 +6,7 @@
 #include<math.h>
 
 // 1. big endian or little endian
- // version 1
-//x
+
 
 // version 2
 
