@@ -1,0 +1,14 @@
+﻿  test.c
+C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(18,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(18,9):
+  consider using '%zd' in the format string
+  
+C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(19,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(19,9):
+  consider using '%zd' in the format string
+  
+C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\2024-01-12\test.c(20,9):
+  consider using '%zd' in the format string
+  
+  2024-01-12.vcxproj -> C:\Users\Xiaodan Fan\Documents\2023 鹏哥C语言\Code\2024-01-12\x64\Debug\2024-01-12.exe
