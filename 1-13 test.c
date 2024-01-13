@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<assert.h>
-#include<ctype.h>
+
 
 //1. print arrows
 // 
