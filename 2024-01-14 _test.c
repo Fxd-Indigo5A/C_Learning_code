@@ -78,7 +78,7 @@
 
 
 
-//
+// version 1_mine 
 
 
 void replace_space( char* str, int sz)
@@ -127,7 +127,7 @@ int main()
 
 
 
-//
+// version 2
 //void replace_space(char* str, int sz)
 //
 //{
