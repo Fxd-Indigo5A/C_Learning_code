@@ -4,7 +4,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-// Loop
+// 1. Loop
 //void reverse(char arr[])
 //{
 //	int sz = strlen(arr);
@@ -24,7 +24,7 @@
 
 
 
-// recursion
+// 2. recursion
 
 
 //int my_strlen(char * str)
