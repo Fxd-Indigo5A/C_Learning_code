@@ -44,7 +44,7 @@
 //}
 
 
-// simulating strcpy
+// 1. simulating strcpy
 //char* my_strcpy(char* dest, const char* src)
 //{
 //	assert(src != NULL);
@@ -69,7 +69,7 @@
 //
 //	return 0;
 //
-
+// 2. simulating my_strlen
 //int my_strlen(const char* str)
 //{
 //	assert(str);
