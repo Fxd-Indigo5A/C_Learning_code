@@ -7,11 +7,11 @@
 
 
 //1. adjust_odd_even number
-//
+
 //void adjust_odd_even(int arr[], int sz)
 //{
 //	int left = 0;
-//	int right = sz - 1;
+//	int right = sz - 1；
 //	while (left < right)
 //	{
 //		while ((left < right) && (arr[left] % 2 == 1))
@@ -57,7 +57,6 @@
 //	}
 //	return 0;
 //}
-//
  
 
 //2. ordered sequence merging
