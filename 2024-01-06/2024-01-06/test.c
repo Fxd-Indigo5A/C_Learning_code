@@ -23,7 +23,7 @@ void test1()
 	}
 }
 
-//2. Sorting struct_name&age  with qsort
+// 2. Sorting struct_name&age  with qsort
 
 
 struct Stu
@@ -98,7 +98,7 @@ void bubbling_sort(void* base, int sz, int width, int(*cmp)(const void* e1, cons
 }
 
 
-//test_my_bubbling
+// test_my_bubbling
 
 void test4()
 {
