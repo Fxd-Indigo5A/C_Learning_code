@@ -5,6 +5,7 @@
 
 //1. Sorting integers with qsort
 
+
 int cmp_int(const void* e1, const void* e2)
 {
 	return (*((int*)e2)) - (*((int*)e1));
@@ -58,8 +59,6 @@ void test2()
 	
 
 }
-
-
 
 // 4. My bubbling sort
 
