@@ -4,6 +4,7 @@
 
 //using macro to simulate offsetof 
 
+
 struct S
 {
 	char c1;
