@@ -14,7 +14,7 @@ struct S
 };
 
 
-#define OFFSETOF(type,member)   (size_t)&(((type*)0)->member )
+# define OFFSETOF(type,member)   (size_t)&(((type*)0)->member )
 
 int main()
 {
