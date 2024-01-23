@@ -6,6 +6,7 @@
 #include<math.h>
 
 
+
 // 1. who's killer
 //int main()
 //{
