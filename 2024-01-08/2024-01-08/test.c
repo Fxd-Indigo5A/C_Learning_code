@@ -109,8 +109,8 @@ void test4()
 int main()
 {
 	// test1()
-	//test2();
-	test4();
+	test2();
+	// test4();
 	return 0;
 }
 
