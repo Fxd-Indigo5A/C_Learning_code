@@ -4,8 +4,6 @@
 #include<string.h>
 #include<assert.h>
 
-
-
 // simulating  string functions:
 
 // 1. simulating  strlen
