@@ -7,7 +7,6 @@
 
 // 1. big endian or little endian
 
-
 // version 2
 
 //int check_endian()
