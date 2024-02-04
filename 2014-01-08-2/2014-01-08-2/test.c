@@ -98,7 +98,6 @@
 //
 //}
 
-
 //4.competition ranking
 
 //int main()
