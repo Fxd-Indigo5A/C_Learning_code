@@ -13,7 +13,8 @@
 //	int num = 0;
 //	int sum = 0;
 //	int i = 0;
-//
+
+
 //	scanf("%d", &num);
 //	while (num)
 //	{
