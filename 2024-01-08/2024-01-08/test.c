@@ -7,7 +7,6 @@
 
 // 1.simulating  my_memcpy
 
-
 void* my_memcpy(void* dest, const void* src, int num)
 {
 	assert(dest && src);
