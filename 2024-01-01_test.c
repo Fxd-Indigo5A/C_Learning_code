@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<math.h>
 
+
+
 // Fibonacci
 
 //int fib(int n)
