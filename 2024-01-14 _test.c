@@ -9,7 +9,6 @@
 //The minimum number of steps becomes a Fibonacci number.
 
 
-
 //int minimum_step(int n)
 //{
 //	
