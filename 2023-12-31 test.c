@@ -5,8 +5,6 @@
 #include<string.h>
 
 
-
-
 // 1. Loop
 //void reverse(char arr[])
 //{
