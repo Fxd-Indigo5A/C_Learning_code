@@ -12,7 +12,6 @@
 
 
 
-
 //int minimum_step(int n)
 //{
 //	
