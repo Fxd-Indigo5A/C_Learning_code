@@ -11,7 +11,6 @@
 
 
 
-
 // 1. Loop
 //void reverse(char arr[])
 //{
